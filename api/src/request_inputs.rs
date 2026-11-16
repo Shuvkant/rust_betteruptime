@@ -1,0 +1,3 @@
+struct CreateWebsite{
+    url: String
+}
